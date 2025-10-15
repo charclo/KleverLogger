@@ -3,3 +3,6 @@ KleverLogger-backups/
 
 ~KleverLogger.kicad_pcb.lck
 ~KleverLogger.kicad_sch.lck
+.DS_Store
+fp-info-cache
+*.kicad_sch-bak
